@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "img": "https://picsum.photos/600/400/?random",
+    "namaBaliho" : "Baliho Kanal 4x6m Jepara Jawa Tengah",
+    "lokasiBaliho" : "Jl. Terus Jadian Kagak",
+    "hargaBulanan" : "4000000",
+    "hargaTahunan" : "45000000",
+  },
+  {
+    "id": 2,
+    "img": "https://picsum.photos/600/400/?gravity=east",
+    "namaBaliho" : "Baliho Ujung Batu 4x8m Jepara Jawa Tengah",
+    "lokasiBaliho" : "Jl. Sama Kamu",
+    "hargaBulanan" : "5000000",
+    "hargaTahunan" : "55000000",
+  }
+]
